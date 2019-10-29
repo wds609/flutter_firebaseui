@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550702700581",
+    "firebase_url": "https://gamification-26b78.firebaseio.com",
+    "project_id": "gamification-26b78",
+    "storage_bucket": "gamification-26b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550702700581:android:1ef33a759d68014748c7cc",
+        "android_client_info": {
+          "package_name": "com.orange.gamification.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550702700581-porkd3i9houkvvrdatm6p51acd25lsrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orange.gamification.sports",
+            "certificate_hash": "d31af1742e01ef023ca8a46694874eca39477d22"
+          }
+        },
+        {
+          "client_id": "550702700581-advkjgv68ij1o5c1d8alluisrbgr5l5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQNnVI5-w9ILSRhCxIjZVwulMmQKnpl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550702700581-advkjgv68ij1o5c1d8alluisrbgr5l5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
